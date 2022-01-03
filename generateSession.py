@@ -7,8 +7,8 @@ try:
     print(
         "Make sure you have API Client ID and Hash , If not goto my.telegram.org and generate it.\n\n"
     )
-    API_ID = input("Enter Your API ID -  ")
-    API_HASH = input("Enter Your API HASH -  ")
+    API_ID = input("Enter Your API ID f1d0001a7146  ")
+    API_HASH = input("Enter Your API HASH session_string  ")
 
     print(
         "\n\nNow it will ask you to enter your phone number(in international format) and then follow the steps"
